@@ -56,7 +56,7 @@ function App() {
       title: "Arqueología Bíblica Confirmada",
       author: "Instituto Arqueológico",
       description: "Hallazgos que respaldan los relatos bíblicos",
-      image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      image: "https://images.unsplash.com/photo-1581728799-7e4fe6ef7dbb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       category: "Arqueología",
       free: true
     },
@@ -65,7 +65,7 @@ function App() {
       title: "Física y la Existencia Divina",
       author: "Dr. Michael Thompson",
       description: "Perspectivas científicas sobre la creación",
-      image: "https://share.google/5n7D5gRqCwhJjIdCv",
+      image: "https://images.unsplash.com/photo-1553787762-9f4c6c5c9c4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
       category: "Ciencia",
       free: true
     },
