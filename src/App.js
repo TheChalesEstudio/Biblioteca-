@@ -65,7 +65,7 @@ function App() {
       title: "Física y la Existencia Divina",
       author: "Dr. Michael Thompson",
       description: "Perspectivas científicas sobre la creación",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      image: "https://share.google/5n7D5gRqCwhJjIdCv",
       category: "Ciencia",
       free: true
     },
